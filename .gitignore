@@ -137,3 +137,9 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# discord-bot project
+/discord-bot/node_modules/
+/discord-bot/.env
+/discord-bot/.env.*
+/discord-bot/logs
